@@ -1,0 +1,13 @@
+{
+  "name": "ShopSmart — Shopping Lists",
+  "short_name": "ShopSmart",
+  "description": "Smart mobile shopping lists with checkmarks, recommendations and A-Z history.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F3F9",
+  "theme_color": "#6C5CE7",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
